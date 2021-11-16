@@ -1,0 +1,589 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 47284,
+      "max": [
+        1.3832629919052124,
+        1.3315367698669434,
+        1.6935209035873413
+      ],
+      "min": [
+        -1.3832629919052124,
+        -1.342725396156311,
+        -1.2930922508239746
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 567408,
+      "componentType": 5126,
+      "count": 47284,
+      "max": [
+        0.99999332427978516,
+        0.99993777275085449,
+        0.99987971782684326
+      ],
+      "min": [
+        -0.99997317790985107,
+        -0.99996733665466309,
+        -0.99999904632568359
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 47284,
+      "max": [
+        0.9999958872795105,
+        0.99803918600082397,
+        0.99997365474700928,
+        1
+      ],
+      "min": [
+        -0.99972957372665405,
+        -0.99999880790710449,
+        -0.99993228912353516,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 47284,
+      "max": [
+        0.99669891595840454,
+        0.99776452779769897
+      ],
+      "min": [
+        0.0022331196814775467,
+        0.0022291471250355244
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 270336,
+      "max": [
+        47283
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1134816,
+      "componentType": 5126,
+      "count": 27313,
+      "max": [
+        1.2844002246856689,
+        1.2844001054763794,
+        1.2843999862670898
+      ],
+      "min": [
+        -1.2843999862670898,
+        -1.2229759693145752,
+        -1.2844002246856689
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1462572,
+      "componentType": 5126,
+      "count": 27313,
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -0.99999451637268066,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1081344,
+      "componentType": 5125,
+      "count": 163866,
+      "max": [
+        27312
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1790328,
+      "componentType": 5126,
+      "count": 27313,
+      "max": [
+        1.2844002246856689,
+        1.2844001054763794,
+        1.2843999862670898
+      ],
+      "min": [
+        -1.2843999862670898,
+        -1.2229759693145752,
+        -1.2844002246856689
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2118084,
+      "componentType": 5126,
+      "count": 27313,
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -0.99999451637268066,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1736808,
+      "componentType": 5125,
+      "count": 163866,
+      "max": [
+        27312
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Bohdan Lvov (https://sketchfab.com/ostapblendercg)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/models/d28690af06624a80b24bcf818666ab1d",
+      "title": "#SculptJanuary19 - Day05 Spherical"
+    },
+    "generator": "Sketchfab-4.1.5",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 2392272,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 378272,
+      "byteOffset": 2392272,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2445840,
+      "byteOffset": 2770544,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 756544,
+      "byteOffset": 5216384,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 5972928,
+      "uri": "scene.bin"
+    }
+  ],
+  "extensionsRequired": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "extensionsUsed": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "images": [
+    {
+      "uri": "textures/Fishy_emissive.jpeg"
+    },
+    {
+      "uri": "textures/Fishy_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        1,
+        1,
+        1
+      ],
+      "emissiveTexture": {
+        "index": 0,
+        "texCoord": 0
+      },
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            1,
+            0.75146880559999996,
+            0.53992023219999996,
+            1
+          ],
+          "glossinessFactor": 0.66844868209999997,
+          "specularFactor": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "name": "Fishy",
+      "normalTexture": {
+        "index": 1,
+        "scale": 1,
+        "texCoord": 0
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            0.16814380840000001,
+            0.16814380840000001,
+            0.16814380840000001,
+            1
+          ],
+          "glossinessFactor": 0.64601672669999999,
+          "specularFactor": [
+            0.65587006569999995,
+            0.2350989102982349,
+            0.0030477751354195844
+          ]
+        }
+      },
+      "name": "Material.001"
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Quad Sphere_Fishy_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Quad Sphere.001_Material.001_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5
+          },
+          "indices": 7,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Quad Sphere.002_Material.001_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8
+          },
+          "indices": 10,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "db6f5f754be14b83a06e7150ac76db6f.fbx"
+    },
+    {
+      "children": [
+        4,
+        6,
+        8,
+        11,
+        13
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        5
+      ],
+      "matrix": [
+        -65.155832803290963,
+        -44.527135765708579,
+        -61.417030473735487,
+        0,
+        -32.40134137821245,
+        89.539574512336159,
+        -30.542088974418615,
+        0,
+        68.592054721299746,
+        -1.0718647115348782e-05,
+        -72.767633623962695,
+        0,
+        735.88916015625,
+        494.5772705078125,
+        692.5791015625,
+        1
+      ],
+      "name": "Camera"
+    },
+    {
+      "name": ""
+    },
+    {
+      "children": [
+        7
+      ],
+      "matrix": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        -1.6292067939183141e-05,
+        -99.999999999998678,
+        0,
+        0,
+        99.999999999998678,
+        -1.6292067939183141e-05,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "Quad Sphere"
+    },
+    {
+      "mesh": 0,
+      "name": "Quad Sphere_Fishy_0"
+    },
+    {
+      "children": [
+        9
+      ],
+      "matrix": [
+        -29.086483087601223,
+        40.218890698196084,
+        -86.812541332466722,
+        0,
+        56.639323232960884,
+        80.366200326967856,
+        18.255435045976011,
+        0,
+        77.110080226835038,
+        -43.860175211093313,
+        -46.155412290891974,
+        0,
+        5.6301264762878418,
+        7.1950182914733887,
+        -3.4010171890258789,
+        1
+      ],
+      "name": "Light"
+    },
+    {
+      "children": [
+        10
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        2.2204460492503131e-16,
+        1,
+        0,
+        0,
+        -1,
+        2.2204460492503131e-16,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": ""
+    },
+    {
+      "name": ""
+    },
+    {
+      "children": [
+        12
+      ],
+      "matrix": [
+        9.8466387195751928,
+        -1.4380152578462645e-07,
+        -8.5329685059291567,
+        0,
+        -7.832615821910637,
+        -5.1695381609408404,
+        -9.0384650348357205,
+        0,
+        -3.3855104355966832,
+        11.960088661861697,
+        -3.9067177896399903,
+        0,
+        38.937397003173828,
+        59.949272155761719,
+        97.6949462890625,
+        1
+      ],
+      "name": "Quad Sphere.001"
+    },
+    {
+      "mesh": 1,
+      "name": "Quad Sphere.001_Material.001_0"
+    },
+    {
+      "children": [
+        14
+      ],
+      "matrix": [
+        10.584002517984576,
+        4.4376388175854685e-07,
+        7.5991273378140081,
+        0,
+        6.9754209854367648,
+        -5.1695397869955144,
+        -9.715309100353581,
+        0,
+        3.0150033988233562,
+        11.960088122574664,
+        -4.1992728182803605,
+        0,
+        -38.332206726074219,
+        59.949272155761719,
+        97.6949462890625,
+        1
+      ],
+      "name": "Quad Sphere.002"
+    },
+    {
+      "mesh": 2,
+      "name": "Quad Sphere.002_Material.001_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    }
+  ]
+}
+
